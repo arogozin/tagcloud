@@ -1,0 +1,20 @@
+{
+    "name": "arg/tagcloud",
+    "description": "",
+    "authors": [
+        {
+            "name": "Aleksandr Rogozin",
+            "email": "arogozin@nyu.edu"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Arg\\Tagcloud": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
