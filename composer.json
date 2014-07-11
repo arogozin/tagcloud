@@ -1,6 +1,7 @@
 {
     "name": "arg/tagcloud",
     "description": "PHP Tag Cloud composer package Implementation of http://lotsofcode.github.io/tag-cloud/",
+    "license": "MIT",
     "keywords": ["tag", "tag cloud", "keywords", "keyword cloud", "laravel"],
     "authors": [
         {
